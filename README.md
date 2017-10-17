@@ -29,8 +29,22 @@ Documentation on all classes is given here
         - [Guide on Creating Lists and Cards](https://developer.android.com/training/material/lists-cards.html)
         - [RecyclerView reference](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
         - [RecyclerView layout](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
-  
-  
+
+### Material design
+
+- [Material Design Guidelines](https://material.io/guidelines/)  
+Contains various guidelines like dimensions, depth, shadows, style, animations, etc. for various material UI components
+- [Material Design Components](https://material.io/components/)  
+It provides modular and customizable UI components to help developers easily create beautiful apps.
+- [Material Design Color Tool](https://material.io/color/#!/?view.left=0&view.right=0)  
+See how different color schemes have effect on the user interface
+- [Material Design Icons](https://material.io/icons/)  
+Material design icons to be used in applications
+- [Fonts](https://fonts.google.com/)  
+Fonts by google.
+Material fonts -> Roboto, Noto
+
+
   
 ## Git  
 Every modern development team requires a version control system, and git is probably the best. Linus Torvalds made this, in a mere two weeks to manage the (famously complex) Linux kernel project.
